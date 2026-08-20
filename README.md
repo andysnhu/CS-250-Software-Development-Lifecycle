@@ -1,1 +1,15 @@
 # CS-250-Software-Development-Lifecycle
+
+This repository contains my Sprint Review and Retrospective from CS 250. The document reflects on a Scrum-Agile project for SNHU Travel, where I rotated through the Product Owner, tester, developer, and Scrum Master roles across the software development lifecycle.
+
+-How do I interpret user needs and implement them into a program? How does creating user stories help with this?
+
+Mostly by listening first and building second. On this project my entire product backlog came out of a focus group with three customers, and the specific complaints were what shaped the stories. One customer was annoyed that tropical destinations kept appearing in her top ten when she never travels to the tropics. That one comment is the reason I ended up with a generic top five story and a separate personalized recommendations story instead of one vague story about showing destinations. User stories help because the format forces you to name who wants the thing and why. When I could not fill in the "so that" part, that was a sign I did not actually understand the need yet. The benefit clause also turned out to be the most useful piece later, since it tells you what counts as the feature working rather than just what to click.
+
+-How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+I want to build in small pieces and get something working in front of people early. The part of this course that changed how I think was the moment the client shifted focus mid-project. It sounded like everything was getting thrown out, and it came down to changing two methods, because the content was already separated from the navigation. Structuring things so a change lands in one place instead of everywhere is worth doing before you know you need it. The processes I want to carry forward are backlog refinement, a real definition of done, and retrospectives. Refinement is where ambiguity gets caught before it costs anything. A definition of done that includes tested and accepted, not just compiles, is what actually closes work. Retrospectives are the only place where process problems get fixed instead of tolerated.
+
+-What does it mean to be a good team member in software development?
+
+A lot of it is asking specific questions instead of guessing. Every role I worked in eventually hit something only somebody else could answer, and the emails that got fast responses were the ones with concrete questions, a deadline, and a note that short answers were fine. The other half is making your reasoning visible. In a group discussion this term I argued against setting up test automation early, and another student pushed back. We worked out a middle ground where we automate a piece of functionality once it has gone two sprints without changing. That conversation happened in the open thread, so the rest of the group saw the reasoning and not just the conclusion. Being a good teammate means disagreeing where people can see it and then writing down what everyone agreed to.
